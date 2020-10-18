@@ -1,7 +1,1 @@
-// Setup
-var a;
-a = 7;
-var b;
-b = a;
-
-// assignment operator = "="
+var a = 9; // the sleek way to create a variable & assign value in one line
