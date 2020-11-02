@@ -7,7 +7,10 @@ body {
     font-size: 16pt;
     background-color: #87CEFA;
     padding: 10px;
-    margin: 10%;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
 }
 h1 {
     font-size: 15pt;
