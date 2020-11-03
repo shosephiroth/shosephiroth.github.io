@@ -1,5 +1,10 @@
 body {
   background-color: black;
+  padding: 10px;
+  border-color: white;
+  border: 10px;
+  margin: 5%;
+  align: center;
 }
 
 h1 {
