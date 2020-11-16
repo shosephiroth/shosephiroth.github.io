@@ -1,11 +1,3 @@
-p {
+.title {
 	color: red;
-}
-
-.aclass {
-	color: blue;
-}
-
-#sometext {
-	color: orange;
 }
