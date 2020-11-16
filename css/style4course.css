@@ -1,4 +1,4 @@
-h2:hover {
+h2 {
 	color: red;
 }
 
@@ -8,4 +8,8 @@ h2:hover {
 
 #services {
 	color:green;
+}
+
+li:first-child {
+	color: steelblue;
 }
