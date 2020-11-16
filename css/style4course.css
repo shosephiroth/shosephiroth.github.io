@@ -10,6 +10,6 @@ h2 {
 	color:green;
 }
 
-li:first-child {
+li:last-child {
 	color: steelblue;
 }
