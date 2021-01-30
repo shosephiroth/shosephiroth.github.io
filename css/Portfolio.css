@@ -4,7 +4,6 @@ body {
   border-color: white;
   border: 10px;
   margin: 5%;
-  align: center;
 }
 
 h1 {
@@ -15,7 +14,4 @@ h1 {
 p {
   color: white;
   font-family: helvetica;
-}
-
-.seconddiv {
 }
