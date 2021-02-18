@@ -1,5 +1,8 @@
 body {
   background-image: url(../img/yunadoor-cleaned.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   background-color: white;
   background-blend-mode: screen;
 }
