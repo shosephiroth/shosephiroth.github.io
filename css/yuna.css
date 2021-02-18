@@ -4,7 +4,7 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-color: white;
-  background-blend-mode: darken;
+  background-blend-mode: screen;
 }
 
 h1 {
