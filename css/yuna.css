@@ -1,10 +1,10 @@
 body {
-  background-image: url(../img/yunadoor-cleaned.jpg);
-  background-color: rgb(7, 161, 27);
-  background-blend-mode: darken;
+  background-blend-mode: screen;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
+  background-color: green;
+  background-image: url("../img/yunadoor-cleaned.jpg");
 }
 
 h1 {
