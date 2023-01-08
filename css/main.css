@@ -25,7 +25,7 @@ h1 span {
 }
 
 p {
-  padding: 16px;
+  /*padding: 16px;*/
   margin: 0;
 }
 .img-circle {
@@ -40,7 +40,7 @@ p {
 }
 #header {
   background-image: url("../img/cityimg.jpg");
-  background-size: cover;
+  background-size: contain;
 }
 #header img {
   display: block;
