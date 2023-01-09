@@ -27,6 +27,7 @@ h1 span {
 p {
   /*padding: 16px;*/
   margin: 0;
+  padding: 10px;
 }
 .img-circle {
   border: 3px solid white;
@@ -34,8 +35,8 @@ p {
 }
 .section {
   background-color: #fff;
-  padding: 15px;
-  margin-bottom: 10px;
+  padding: 5px;
+/*  margin-bottom: 10px;  */
   border-radius: 10px;
 }
 #header {
@@ -62,7 +63,7 @@ p {
   margin-top: 10px;
 }
 table {
-  width: 100%;
+  width: 50%;
 }
 table,
 th,
