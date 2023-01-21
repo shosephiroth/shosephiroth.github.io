@@ -27,3 +27,13 @@ p {
   color: white;
   font-size: 16pt;
 }
+
+p {
+  animation: slow-type 4s steps(40, end);
+  white-space: pre;
+}
+
+@keyframes slow-type {
+  0% { width: 0; }
+  100% { width: 100%; }
+}
