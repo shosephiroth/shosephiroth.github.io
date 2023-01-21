@@ -26,9 +26,6 @@ p {
   font-style: helvetica;
   color: white;
   font-size: 16pt;
-}
-
-p {
   animation: slow-type 4s steps(40, end);
   white-space: pre;
 }
