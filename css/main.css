@@ -12,6 +12,7 @@ body {
   margin-right: 10%;
   margin-bottom: 5%;
 }
+
 h1 {
   font-size: 15pt;
   color: black;
@@ -19,6 +20,7 @@ h1 {
   padding: 18px 0 18px 0;
   margin: 0 0 10px 0;
 }
+
 h1 span {
   padding: 10px;
   border-radius: 15px;
@@ -33,22 +35,26 @@ p {
   border: 3px solid white;
   border-radius: 50%;
 }
+
 .section {
   background-color: #fff;
   padding: 1px;
 /*  margin-bottom: 10px;  */
   border-radius: 10px;
 }
+
 #header {
   background-image: url("../img/cityimg.jpg");
   background-size: contain;
 }
+
 #header img {
   display: block;
   width: 80px;
   height: 80px;
   margin: auto;
 }
+
 #header p {
   font-size: 25pt;
   color: #f2f2f2;
@@ -57,14 +63,17 @@ p {
   font-weight: bold;
   text-align: center;
 }
+
 .quote {
   font-size: 14pt;
   text-align: center;
   margin-top: 10px;
 }
+
 table {
   width: 50%;
 }
+
 table,
 th,
 td {
@@ -73,46 +82,56 @@ td {
   text-align: center;
   table-layout: fixed;
 }
+
 .selected {
   background-color: #6495ed;
   font-weight: bold;
   color: white;
 }
+
 li {
   margin-bottom: 15px;
   font-weight: bold;
 }
+
 progress {
   width: 70%;
   height: 20px;
   color: #3fb6b2;
   background: #efefef;
 }
+
 progress::-webkit-progress-bar {
   background: #efefef;
 }
+
 progress::-webkit-progress-value {
   background: #4169e1;
 }
+
 progress::-moz-progress-bar {
   color: #4169e1;
   background: #efefef;
 }
+
 iframe,
 audio {
   display: block;
   margin: 0 auto;
   border: 3px solid #3fb6b2;
 }
+
 hr {
   border: 0;
   height: 1px;
   background: #f36f48;
 }
+
 form {
   text-align: center;
   margin-top: 0;
 }
+
 .submit {
   background-color: #6495ed;
   padding: 12px 45px;
@@ -124,12 +143,15 @@ form {
   margin: 0;
   font-weight: bold;
 }
+
 .submit:hover {
   background-color: #43a09d;
 }
+
 textarea {
   height: 100px;
 }
+
 input,
 textarea {
   margin-bottom: 10px;
@@ -142,6 +164,7 @@ textarea {
   width: 70%;
   outline: none;
 }
+
 .face {
   transform: scale(0.4);
   margin: 0 auto;
@@ -149,21 +172,26 @@ textarea {
   margin-top: -35px;
   margin-bottom: -25px;
 }
+
 #contacts img {
   height: 50px;
   width: 50px;
   margin-left: 7px;
   margin-right: 7px;
 }
+
 #contacts a {
   text-decoration: none;
 }
+
 #contacts img:hover {
   opacity: 0.8;
 }
+
 #contacts {
   text-align: center;
 }
+
 .copyright {
   font-size: 8pt;
   text-align: right;
