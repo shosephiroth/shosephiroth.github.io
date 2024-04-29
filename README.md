@@ -4,7 +4,9 @@
 - <a href = "https://github.com/shosephiroth">My Github Profile
 - <a href = "https://shosephiroth.github.io/Portfolio-Matrix/">My Portfolio</a>
 
-## April 29th 2024
+## Updates
+
+### April 29th 2024
 
 Creating a new version of this page.
 
