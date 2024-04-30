@@ -1,6 +1,7 @@
 .thumbnail iframe {
   width: 1440px;
   height: 900px;
+  margin-bottom: -200px;
 }
 
 .thumbnail {
@@ -11,7 +12,6 @@
   -o-transform: scale(0.25);
   -o-transform-origin: 0 0;
   -webkit-transform: scale(0.25);
-  -webkit-transform-origin: 0 0;
 }
 
 .thumbnail:after {
