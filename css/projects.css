@@ -1,4 +1,29 @@
 .thumbnail iframe {
   width: 1440px;
   height: 900px;
+  margin-bottom: -200px;
+}
+
+.thumbnail {
+  position: relative;
+  -ms-zoom: 0.25;
+  -moz-transform: scale(0.25);
+  -moz-transform-origin: 0 0;
+  -o-transform: scale(0.25);
+  -o-transform-origin: 0 0;
+  -webkit-transform: scale(0.25);
+}
+
+.thumbnail:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+div {
+
 }
