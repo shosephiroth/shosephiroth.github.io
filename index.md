@@ -1,4 +1,8 @@
 # Shosephiroth.github.io
+
+## Welcome to my Landing Page!
+### Site navigation
+- <a href = "https://shosephiroth.github.io/aboutMe">About Me</a> 
 - <a href = "https://shosephiroth.github.io/">Visit my landing page</a> 
 - <a href = "https://github.com/shosephiroth/shosephiroth.github.io">Back to this page's repository</a>
 - <a href = "https://github.com/shosephiroth">My Github Profile
