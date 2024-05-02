@@ -1,5 +1,3 @@
-# Shosephiroth.github.io
-
 ## Welcome to my Landing Page!
 ### Site navigation
 - <a href = "https://shosephiroth.github.io/aboutMe">About Me</a> 
@@ -18,3 +16,5 @@ Added missing Matrix files; interesting how the page worked without them being p
 ### April 29th, 2024
 
 Creating a new version of this page.
+
+--- 
