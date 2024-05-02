@@ -1,5 +1,3 @@
-# Shosephiroth.github.io
-
 ## Welcome to my Landing Page!
 ### Site navigation
 - <a href = "https://shosephiroth.github.io/aboutMe">About Me</a> 
@@ -11,6 +9,11 @@
 
 ## Updates
 
+### May 2nd, 2024
+
+Updated dependencies, config files, and such. More updates are needed to fix site formatting changes
+
+
 ### May 1st, 2024
 
 Added missing Matrix files; interesting how the page worked without them being present in my repository!
@@ -18,3 +21,5 @@ Added missing Matrix files; interesting how the page worked without them being p
 ### April 29th, 2024
 
 Creating a new version of this page.
+
+--- 
