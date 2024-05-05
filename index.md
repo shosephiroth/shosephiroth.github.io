@@ -1,4 +1,3 @@
-## Welcome to my Landing Page!
 ### Site navigation
 - <a href = "https://shosephiroth.github.io/aboutMe">About Me</a> 
 - <a href = "https://shosephiroth.github.io/">Visit my landing page</a> 
