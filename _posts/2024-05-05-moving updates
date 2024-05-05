@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Moving updates to posts"
 date:   2024-05-05 18:49:59 -0400
 categories: jekyll update
 ---
