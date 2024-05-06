@@ -1,6 +1,3 @@
----
-layout: default
----
 ## Welcome to my Landing Page!
 ### Site navigation
 - <a href = "https://shosephiroth.github.io/aboutMe">About Me</a> 
