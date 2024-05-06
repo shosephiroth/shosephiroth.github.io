@@ -9,6 +9,10 @@
 
 ## Updates
 
+### May 6th, 2024 
+
+Still having some issues configuring the page. Might be best to start from scratch but I feel like I'm learning a lot by messing with the existing config
+
 ### May 2nd, 2024
 
 Updated dependencies, config files, and such. More updates are needed to fix site formatting changes
