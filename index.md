@@ -9,7 +9,7 @@
 
 ## Updates
 
-### May 6th, 2024
+### May 6th, 2024 
 
 Still having some issues configuring the page. Might be best to start from scratch but I feel like I'm learning a lot by messing with the existing config
 
